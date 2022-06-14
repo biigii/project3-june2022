@@ -1,0 +1,68 @@
+/* id - class - type */
+/* 1-1-1 */
+
+/* 1-0-0 */
+#main-header {
+    color: purple;
+}
+
+/* 0-1-0 */
+.heading {
+    color: pink;
+}
+
+/* 0-0-1 */
+h1 {
+    color: red;
+}
+
+/* 0-0-1 */
+h1 {
+    color: orange;
+    color: blue;
+}
+
+/* p {
+  background-color: yellow;
+} */
+
+/* .text {
+  background-color: gold;
+} */
+
+.content p {
+    background-color: gold;
+    font-size: 24px;
+}
+
+.content .text {
+    color: purple;
+    font-size: 30px;
+}
+
+p.paragraph {
+    color: red;
+}
+
+h3.paragraph {
+    color: pink;
+    background-color: black;
+}
+
+h5.sub-heading.important {
+    color: green;
+    background-color: yellow;
+}
+
+.wrapper h3 {
+    background-color: red;
+    color: yellow;
+}
+
+.wrapper p {
+    color: white;
+    background-color: black;
+}
+
+/* .wrapper img {}
+.wrapper button {} */
