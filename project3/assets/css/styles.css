@@ -1,3 +1,18 @@
-h1 {
-  color: red;
+.main-heading {
+  color: yellow;
+  background-color: lightblue;
+  text-align: center;
+  font-size: 60px;
+}
+.page {
+ color: red;
+}
+
+.text {
+   background-color: gold;
+}
+
+.link {
+  background-color: black;
+  color: white;
 }
